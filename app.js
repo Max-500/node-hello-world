@@ -13,7 +13,7 @@ app.get('/hello', (req, res) => {
 });
 
 app.get('/bye', (req, res) => {
-    res.send("Bye World")
+    res.send("Bye World");
 });
 
 
